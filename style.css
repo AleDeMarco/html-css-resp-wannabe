@@ -78,9 +78,6 @@ img {
 
   .row {
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
   }
 
   #lezioni .row>.left,
@@ -92,4 +89,8 @@ img {
     float: none;
   }
 
+  img{
+    width: 50%;
+    height: 50%;
+  }
 }
